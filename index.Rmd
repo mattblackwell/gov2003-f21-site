@@ -1,0 +1,133 @@
+---
+title: "Gov 2003: Causal Inference with Applications"
+description: |
+  Syllabus and information for Gov 2003 at Harvard University
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+## Head Instructor
+
+**Matthew Blackwell**  
+[mblackwell@gov.harvard.edu](mailto:mblackwell@gov.harvard.edu)  
+http://mattblackwell.org  
+Office Hours: TBD  
+
+
+## Teaching Fellow
+
+**Sooahn Shin**  
+[sooahnshin@g.harvard.edu](mailto:sooahnshin@g.harvard.edu)  
+http://sooahnshin.com/  
+Office Hours: TBD  
+
+## Description 
+
+This course will cover a growing field in political science and the social sciences more generally: causal inference. That is, we will primarily be concerned with how and when we can make causal claims from empirical research. This is a difficult task and, in general, there are no formulas or computer programs that can give your research a causal interpretation. We always require assumptions. This course will focus on providing you the analytic and quantitative framework to assess and implement these assumptions. Perhaps at the most basic level, this course will sharpen your senses toward the issues of causal reasoning in the social sciences.
+
+
+## Expectations
+
+In this course you will be expected to 
+
+- complete 8 problem sets, 
+- participate in the course via lectures, sections, and discussion forums, 
+- complete a final group research project, 
+- and provide feedback on another group's research project. 
+
+
+## Course objectives
+
+After taking this course we hope you will:
+
+- Understand the basic issues and approaches to causal inference in the social sciences. 
+- Be able to critically evaluate the assumptions that justify causal inference techniques in applied settings. 
+- Have the ability to implement the most common social science causal inference methods in applied data. 
+
+
+## Prerequisites
+
+Students in the class should plan to work hard at understanding some difficult material. You'll need to have some proficiency with R. You should have taken GOV 2001 and GOV 2002 or the equivalent. Of course there are always exceptions to this, so feel free to chat with me about your background to see if the fit is right. Qualified undergraduates and graduate students from other departments are welcome to join the class. 
+
+## Grading
+
+
+
+- Biweekly homework assignments (50% of final grade)
+- Final collaborative project (40% of final grade)
+- Participation  (5% of final grade)
+- Peer feedback on projects (5% of final grade)
+
+
+
+## Course structure
+
+
+### Lecture
+
+Lectures will cover the basic theoretical issues in lecture along with some applied examples. We'll try to foster discussions when we can and perhaps even attempt some "breakout" time to work through issues (if possible given the health and safety situation). We hope to record the lectures via the camera in K354 and make the recordings available to those who cannot attend due to illness or class conflicts. Having said that, your attendance at lectures is **very strongly recommended** and your participation counts toward your grade. 
+
+### Section
+
+At section, your TF will review the material for the week and demonstrate how to implement the methods we describe in lecture. 
+
+### Reading
+There are readings for each topic and they mostly cover the theory of the method along with some applications. Obviously, read the required readings and any others that pique your curiosity. In addition, though, engage with the readings: take notes, write down your impressions or confusions, talk with your classmates. All of your classes should be pushing your research forward and you will be more creative the more you actively read.
+
+## Course assignments
+
+### Participation 
+
+Participation is crucial component to the class and we will grade your participation based on your engagement during class meetings along with your contributions to discussions and feedback via Slack and the message boards. 
+
+### Problem Sets
+
+Methods are tools and it isn't very instructive to read a lot about hammers or watch someone else wield a hammer. You need to get your hands on a hammer or two. Thus, in this course, you will have approximately 8 problem sets. They will be a mix of conceptual questions,  analytic problems, computer simulations, and data analysis. These problem sets should be typed and well-formatted, preferably using RMarkdown. Each problem set will be equally weighted. I encourage you to work in groups on the homework, but you always need to write your own solutions **including your computer code**. Also, it is hugely beneficial to attempt the problems sets on your own before working in groups.
+
+
+### Student Project
+In lieu of a final exam, this course requires students to write a short paper applying or extending the causal inference methods we learn in this class. These papers can be substantive (applying the methods to a problem of interest to you) or methodological (deriving a new method that innovates over existing ones). It should be no longer than 20 double-spaced pages and focus on the research design, data, methodology, results, and analysis. Literature reviews or background material should be omitted or included in an appendix. Co-authored projects are strongly encouraged and working as an individual requires approval. Working with collaborators will be the cornerstone of your career from now on, so it's crucial to get to know this process sooner rather than later.
+
+Here is a brief timetable for the projects:
+
+- **September 17th**: Find a collaborator or obtain permission from the instructor to work on an individual project. 
+- **October 1st**: Submit a short (half-page)
+  description of your proposed project and a **feasible** plan for carrying out the research. 
+- **November 12th**: Submit a brief (no longer than 5 page) page memo of your main results, including tables, figures, and brief analysis. For methodological projects, this should include a description of the method and any analytical/simulation results. You will be required to give feedback on another group's project, which will be counted toward the overall grade based on attentiveness and usefulness of the feedback provided. 
+- **December 18th**: Submit your final version of the project. 
+
+
+## Books
+
+We'll draw heavily on the following texts for this class:
+
+- Angrist, Joshua D. and Jörn-Steffen Pischke. 2008. *Mostly Harmless Econometrics: An Empiricist's Companion*. Princeton University Press.
+- Imbens, Guido W., and Donald B. Rubin. 2015. *Causal Inference for Statistics, Social, and Biomedical Sciences*. Cambridge University Press. (Free to download from CUP when using Harvard Network or EZProxy.)
+- Hernán, Miguel A.  and James M. Robins. 2012. [*Causal Inference*](http://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/). Forthcoming, Cambridge University Press. (You can find draft PDFs on the
+  linked page above.)
+
+The following books are *optional* but may prove useful for additional coverage of some of the course topics. Always check to see if the books are available to download from Harvard servers (true for many CUP and Springer books).
+
+- Wooldridge, Jeffrey M. 2010. *Econometric Analysis of Cross Section and Panel Data*, Second Edition. MIT Press.
+- Morgan, Stephen L, and Christopher Winship. 2015. *Counterfactuals and Causal Inference*, Second Edition. Cambridge University Press. 
+- Rosenbaum, Paul R. 2009. *Design of Observational Studies*.  Springer Series in Statistics.
+- Rosenbaum, Paul R. 2002. *Observational Studies*. Springer-Verlag. 2nd edition.
+- Pearl, Judea. 2000. *Causality: Models, Reasoning, and Inference*. New York: Cambridge University Press.
+- Manski, Charles F. 1995.* Identification Problems in the Social Sciences*. Cambridge: Harvard University Press.
+- Rubin, Donald. 2006. *Matched Sampling for Causal Effects*. Cambridge University Press.
+
+
+

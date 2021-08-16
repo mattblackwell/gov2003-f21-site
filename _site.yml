@@ -1,0 +1,13 @@
+name: "site"
+title: "Gov 2003: Causal Inference"
+description: |
+  Gov 2003: Causal Inference with Applications
+output_dir: "docs"
+theme: cousteau.css
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Schedule"
+      href: schedule.html
+output: distill::distill_article

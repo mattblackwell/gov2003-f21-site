@@ -1,0 +1,174 @@
+---
+title: "Gov 2003: Weekly Schedule"
+description: |
+  Schedule of topics and readings for Gov 2003
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 3
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+The following is tentative schedule for the semester that is **very much in flux**. For each week, I offer readings that I believe will help you understand the material we will cover on a deeper level. You are strongly recommended to read these ahead of our class meeting. 
+
+### Module 1: Introduction and Potential Outcomes (Sept 1-8)
+
+#### Topics
+- Potential outcomes 
+- Causal estimands 
+- Introduction to causal graphs
+
+#### Reading 
+- Imbens & Rubin, Ch. 1
+- Angrist & Pischke, Chapter 1.
+- Holland, P. W. 1986.  
+  ["Statistics and Causal Inference"](http://www.jstor.org/stable/2289064). Journal of the American
+  Statistical Association, Vol. 81, No. 396: 945-960.
+
+### Module 2: Randomization Inference (Sept 13-15)
+
+#### Topics
+
+- Randomized experiments
+- Fisher's approach to inference, permutation tests
+- Sharp null, randomization distribution
+
+#### Reading
+
+- Imbens and Rubin, Chapter 5. (Skim Chapter 4 for some definitions.)
+- Rosenbaum, Paul R. 2002. *Observational Studies*. Springer-Verlag. 2nd edition. Chapter 2.
+
+### Module 3: Inference for the Average Treatment Effect (Sept 20-22)
+
+
+
+#### Topics
+
+- Neyman's approach to inference for the ATE
+- Finite-sample vs superpopulation inference
+- Stratified and matched-pair randomized trials
+
+#### Reading
+
+- Imbens & Rubin, Chapters 6, 9 (Skip 9.6–9.7), and 10 (Skip 10.6–10.7)
+- Angrist and Pischke: Chapter 2.
+
+
+### Module 4: Linear Regression and Randomized Experiments (Sept 27-29)
+
+#### Topics
+
+- Simple linear regression in experiments
+- Cluster-randomized trials
+- Covariate adjustment in experiments with regression
+
+#### Reading 
+
+- Imbens & Rubin, Chapters 7, 9 (9.6–9.7), and 10 (10.6–10.7)
+- Winston Lin. ["Agnostic notes on regression adjustments to experimental data: Reexamining Freedman’s critique."](https://doi.org/10.1214/12-AOAS583) Ann. Appl. Stat. 7 (1) 295 - 318, March 2013. 
+- Freedman, David. 2008. ["On regression adjustments to experimental data."](https://www.stat.berkeley.edu/~census/neyregr.pdf)
+
+### Module 5: Observational Studies (Oct 4-13)
+
+#### Topics
+
+- Selection on observables, 
+- DAGs and the back-door criterion
+- Regression for observational data
+- Sensitivity analysis and partial identification
+
+#### Reading
+
+- Angrist & Pischke, Chapter 3. 
+- Imbens & Rubin, Chapters 21 and 22. 
+- Morgan & Winship, Chapter 4. 
+
+### Module 6: Instrumental Variables (Oct 18-20)
+
+#### Topics
+
+- Noncompliance in randomized experiments
+- Two-stage least squares
+- Instrumental variables in observational studies
+
+#### Reading
+
+- Imbens & Rubin, Chapters 23 and 24
+- Angrist & Pischke, Chapter 4
+
+### Module 7: Matching and Weighting Estimators (Oct 25-27)
+
+#### Topics
+
+- Propensity scores, matching and weighting estimators
+- Optimal matching methods
+- Calibration methods 
+
+#### Reading
+
+- Imbens & Rubin, Chapters 13, 15, and 18.
+- Stuart. 2010.
+  \href{http://projecteuclid.org/euclid.ss/1280841730} {Matching
+    methods for causal inference: A review and a look forward}. Statistical Science. Vol. 25, No. 1: 1--21
+
+
+### Module 8: Regression Discontinuity Designs (Nov 1-3)
+
+#### Topics
+
+- Sharp RD designs, identification
+- Estimation and bandwidth selection
+- Fuzzy RD designs and diagnostics
+
+#### Reading
+
+- Imbens, Guido W., and Thomas Lemieux. 2008. [Regression Discontinuity Designs: A Guide to Practice](http://linkinghub.elsevier.com/retrieve/pii/S0304407607001091). Journal of Econometrics 142: 615-35. 
+- Angrist and Pischke: Chapter 6.
+- Cattaneo, M., Idrobo, N., & Titiunik, R. (2020). A Practical Introduction to Regression Discontinuity Designs: Foundations (Elements in Quantitative and Computational Methods for the Social Sciences). Cambridge: Cambridge University Press. doi:10.1017/9781108684606 [Preprint Version](https://titiunik.mycpanel.princeton.edu/books/CattaneoIdroboTitiunik2019-CUP-Vol1.pdf)
+
+
+### Module 9: Panel Data, Fixed Effects, and Differences-in-differences (Nov 8-15)
+
+#### Topics
+
+- Fixed effects and first differences
+- Difference-in-differences
+- Synthetic control methods
+
+#### Reading
+
+- Angrist and Pischke: Chapter 5
+- Imai, Kosuke and In Song Kim. (2019). [When Should We Use Unit Fixed Effects Regression Models for Causal Inference with Longitudinal Data?](https://imai.fas.harvard.edu/research/files/FEmatch.pdf) American Journal of Political Science, Vol. 63, No. 2 (April), pp. 467-490.
+- Abadie, Diamond, and Hainmueller. 2010. [Synthetic Control Methods for Comparative Case Studies: Estimating the Effect of California's Tobacco Control Program](http://www.mit.edu/~jhainm/Paper/ccs.pdf). Journal of the American Statistical Association.
+
+### Module 10: Moderators, mediators, and mechanisms (Nov 17-22)
+
+#### Topics
+
+- Causal heterogeneity and effect modification
+- Causal mediation and direct effects
+
+#### Reading
+
+- Imai, Kosuke, Luke Keele, Dustin Tingley, and Teppei
+  Yamamoto. 2011. [Unpacking
+    the Black Box of Causality: Learning About Causal Mechanisms From
+    Experimental and Observational Studies](http://web.mit.edu/teppei/www/research/mediationP.pdf). American Political
+  Science Review 105(04): 765–89.
+- Acharya, Avidit, Matthew Blackwell, and Maya Sen. 2016. [Explaining Causal Findings Without Bias: Detecting and Assessing Direct Effects](https://mattblackwell.org/files/papers/direct-effects.pdf). American Political Science Review. 
+
+
+### Module 11: Final topics (Nov 30-Dec 1)
+
+#### Topics
+
+- Time-varying treatments and marginal structural models
+- Exploring treatment effect heterogeneity 
+
+#### Reading
+
+- Matthew Blackwell. 2013. [A Framework for Dynamic Causal Inference in Political Science](http://www.mattblackwell.org/files/papers/dynci.pdf),
+  American Journal of Political Science.
