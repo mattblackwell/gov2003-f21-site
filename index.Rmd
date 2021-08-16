@@ -2,8 +2,8 @@
 title: "Gov 2003: Causal Inference with Applications"
 description: |
   Syllabus and information for Gov 2003 at Harvard University
-output:
-  distill::distill_article:
+site:
+  distill::distill_website:
     toc: true
     toc_depth: 2
 ---
