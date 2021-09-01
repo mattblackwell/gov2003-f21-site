@@ -97,6 +97,20 @@ Participation is crucial component to the class and we will grade your participa
 
 Methods are tools and it isn't very instructive to read a lot about hammers or watch someone else wield a hammer. You need to get your hands on a hammer or two. Thus, in this course, you will have approximately 8 problem sets. They will be a mix of conceptual questions,  analytic problems, computer simulations, and data analysis. These problem sets should be typed and well-formatted, preferably using RMarkdown. Each problem set will be equally weighted. I encourage you to work in groups on the homework, but you always need to write your own solutions **including your computer code**. Also, it is hugely beneficial to attempt the problems sets on your own before working in groups.
 
+The schedule for the problem sets is below:
+
+| Problem Set    | Release Date             | Due Date                  |
+|:---------------|:-------------------------|:--------------------------|
+| Problem Set 1  | Thu, Sep 9th 12:00pm ET | Wed, Sep 15th  11:59pm ET  |
+| Problem Set 2  | Thu, Sep 16th 12:00pm ET  | Wed, Sep 22nd 11:59pm ET  |
+| Problem Set 3  | Thu, Sep 23rd 12:00pm ET | Wed, Sep 29th  11:59pm ET |
+| Problem Set 4  | Thu, Sep 30th 12:00pm ET | Wed, Oct 6th  11:59pm ET |
+| Problem Set 5  | Thu, Oct 14th 12:00pm ET | Wed, Oct 20th  11:59pm ET |
+| Problem Set 6  | Thu, Oct 21st 12:00pm ET | Wed, Oct 27th  11:59pm ET |
+| Problem Set 7  | Thu, Oct 28th 12:00pm ET  | Wed, Nov 3rd  11:59pm ET  |
+| Problem Set 8  | Thu, Nov 4th 12:00pm ET  | Wed, Nov 10th  11:59pm ET |
+| Problem Set 9 | Thu, Nov 11th 12:00pm ET | Wed, Nov 17th  11:59pm ET |
+
 
 ### Student Project
 In lieu of a final exam, this course requires students to write a short paper applying or extending the causal inference methods we learn in this class. These papers can be substantive (applying the methods to a problem of interest to you) or methodological (deriving a new method that innovates over existing ones). It should be no longer than 20 double-spaced pages and focus on the research design, data, methodology, results, and analysis. Literature reviews or background material should be omitted or included in an appendix. Co-authored projects are strongly encouraged and working as an individual requires approval. Working with collaborators will be the cornerstone of your career from now on, so it's crucial to get to know this process sooner rather than later.
