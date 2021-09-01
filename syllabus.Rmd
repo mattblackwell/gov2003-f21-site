@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Matthew Blackwell**  
 [mblackwell@gov.harvard.edu](mailto:mblackwell@gov.harvard.edu)  
 http://mattblackwell.org  
-Office Hours: TBD  
+Office Hours: Mondays, 1-3pm [Sign up here](https://calendly.com/matt_blackwell/office-hours)  
 
 
 ## Teaching Fellow
