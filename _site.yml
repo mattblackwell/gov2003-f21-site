@@ -12,4 +12,6 @@ navbar:
       href: syllabus.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Materials"
+      href: materials.html
 output: distill::distill_article

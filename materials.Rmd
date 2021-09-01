@@ -1,0 +1,25 @@
+---
+title: "Materials"
+description: |
+  Materials for Gov 2003: Causal Inference with Applications
+output:
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+## Lecture Notes
+
+0. Introduction: [PDF](files/00_intro.pdf) |  [Handout PDF](files/00_intro_handout.pdf)
+1. Potential Outcomes: [PDF](files/01_potential_outcomes.pdf) |  [Handout PDF](files/01_potential_outcomes_handout.pdf)
