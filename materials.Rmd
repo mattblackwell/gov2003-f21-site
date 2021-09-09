@@ -24,3 +24,9 @@ knitr::opts_chunk$set(echo = FALSE)
 0. Introduction: [PDF](files/00_intro.pdf) |  [Handout PDF](files/00_intro_handout.pdf)
 1. Potential Outcomes: [PDF](files/01_potential_outcomes.pdf) |  [Handout PDF](files/01_potential_outcomes_handout.pdf)
 1. Randomized Experiments and Randomization Inference: [PDF](files/02_experiments.pdf) |  [Handout PDF](files/02_experiments_handout.pdf)
+
+## Section Notes
+
+1. Potential Outcomes: [PDF](files/section1_gov2003_2021F.pdf) | [Annotated PDF](files/section1_gov2003_2021F_annotated.pdf)
+
+
