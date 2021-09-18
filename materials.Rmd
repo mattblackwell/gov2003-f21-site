@@ -28,5 +28,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Section Notes
 
 1. Potential Outcomes: [PDF](files/section1_gov2003_2021F.pdf) | [Annotated PDF](files/section1_gov2003_2021F_annotated.pdf)
+1. Randomized Experiments and Randomization Inference: [PDF](files/section2_gov2003_2021F.pdf) | [Annotated PDF](files/section2_gov2003_2021F_annotated.pdf)
 
 
