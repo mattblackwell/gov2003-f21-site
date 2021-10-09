@@ -40,3 +40,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 1. Potential Outcomes: [Solution](files/pset1_gov2003_2021F_solution.pdf)
 1. Randomized Experiments and Randomization Inference: [Solution](files/pset2_gov2003_2021F_solution.pdf) 
+1. Inference for the ATE: [Solution](files/pset3_gov2003_2021F_solution.pdf) 
