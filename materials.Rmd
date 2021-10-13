@@ -26,7 +26,7 @@ knitr::opts_chunk$set(echo = FALSE)
 1. Randomized Experiments and Randomization Inference: [PDF](files/02_experiments.pdf) |  [Handout PDF](files/02_experiments_handout.pdf)
 1. Inference for the ATE: [PDF I (ATE)](files/03_ate_inference.pdf) | [Handout I (ATE)](files/03_ate_inference_handout.pdf) | [PDF II (Blocking)](files/03_blocking_pairs.pdf) | [Handout II (Blocking)](files/03_blocking_pairs_handout.pdf)
 1. Regression and Experiments: [PDF](files/04_regression.pdf) | [Handout](files/04_regression_handout.pdf)
-1. Observational Studies: [PDF](files/05_observational_studies.pdf) | [Handout](files/05_observational_studies_handout.pdf)
+1. Observational Studies: [PDF](files/05_observational_studies.pdf) | [Handout](files/05_observational_studies_handout.pdf) | [PDF II (Sensitivity Analysis and Bounds)](files/05_sens_partial.pdf) | [Handout II (Sensitivity Analysis and Bounds)](files/05_sens_partial_handout.pdf)
 
 ## Section Notes
 
