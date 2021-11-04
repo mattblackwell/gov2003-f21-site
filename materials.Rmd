@@ -38,6 +38,7 @@ knitr::opts_chunk$set(echo = FALSE)
 1. Regression and Experiments: [PDF](files/section4_gov2003_2021F.pdf) | [Annotated PDF](files/section4_gov2003_2021F_annotated.pdf)
 1. Observational Studies: [PDF](files/section5_gov2003_2021F.pdf) | [Annotated PDF](files/section5_gov2003_2021F_annotated.pdf) | [PDF II](files/section6_gov2003_2021F.pdf) | [Annotated PDF II](files/section6_gov2003_2021F_annotated.pdf)
 1. Instrumental Variables: [PDF](files/section7_gov2003_2021F.pdf) | [Annotated PDF](files/section7_gov2003_2021F_annotated.pdf)
+1. Matching and Weighting: [PDF](files/section8_gov2003_2021F.pdf) 
 
 ## Problem Sets
 
