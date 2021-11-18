@@ -42,6 +42,7 @@ knitr::opts_chunk$set(echo = FALSE)
 1. Instrumental Variables: [PDF](files/section7_gov2003_2021F.pdf) | [Annotated PDF](files/section7_gov2003_2021F_annotated.pdf)
 1. Matching and Weighting: [PDF](files/section8_gov2003_2021F.pdf) | [Annotated PDF](files/section8_gov2003_2021F_annotated.pdf)
 1. Regression Discontinuity Designs: [PDF](files/section9_gov2003_2021F.pdf) | [Annotated PDF](files/section9_gov2003_2021F_annotated.pdf)
+1. Panel Data: [PDF](files/section10_gov2003_2021F.pdf)
 
 
 ## Problem Sets
