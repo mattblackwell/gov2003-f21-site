@@ -31,6 +31,7 @@ knitr::opts_chunk$set(echo = FALSE)
 1. Matching and Weighting: [PDF I (Matching)](files/07_matching.pdf) | [Handout I (Matching)](files/07_matching_handout.pdf) | [PDF II (Weighting)](files/07_weighting.pdf) | [Handout II (Weighting)](files/07_weighting_handout.pdf)
 1. Regression Discontinuity Design: [PDF](files/08_rdd.pdf) | [Handout](files/08_rdd_handout.pdf)
 1. Panel Data: [PDF I (DID/Fixed effects)](files/09_panel_did.pdf) | [Handout I (DID/Fixed effects)](files/09_panel_did_handout.pdf) |  [PDF II (Synthetic Control)](files/09_synth.pdf) | [Handout II (Synthetic Control)](files/09_synth_handout.pdf) 
+1. Causal Mechanisms: [PDF](files/10_mechanisms.pdf) | [Handout](files/10_mechanisms_handout.pdf)
 
 ## Section Notes
 
