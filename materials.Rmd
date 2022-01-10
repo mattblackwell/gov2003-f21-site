@@ -45,14 +45,3 @@ knitr::opts_chunk$set(echo = FALSE)
 1. Regression Discontinuity Designs: [PDF](files/section9_gov2003_2021F.pdf) | [Annotated PDF](files/section9_gov2003_2021F_annotated.pdf)
 1. Panel Data: [PDF](files/section10_gov2003_2021F.pdf) | [Annotated PDF](files/section10_gov2003_2021F_annotated.pdf)
 
-
-## Problem Sets
-
-1. Potential Outcomes: [Solution](files/pset1_gov2003_2021F_solution.pdf)
-1. Randomized Experiments and Randomization Inference: [Solution](files/pset2_gov2003_2021F_solution.pdf) 
-1. Inference for the ATE: [Solution](files/pset3_gov2003_2021F_solution.pdf) 
-1. Regression and Experiments: [Solution](files/pset4_gov2003_2021F_solution.pdf) 
-1. Observational Studies: [Solution](files/pset5_gov2003_2021F_solution.pdf) 
-1. Instrumental Variables: [Solution](files/pset6_gov2003_2021F_solution.pdf) 
-1. Matching and Weighting Estimators: [Solution](files/pset7_gov2003_2021F_solution.pdf) 
-1. Regression Discontinuity Designs: [Solution](files/pset8_gov2003_2021F_solution.pdf) 
